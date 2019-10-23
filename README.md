@@ -1,6 +1,6 @@
 # data_analysis
 Data Analysis using lists in c
-Tema1-Rotila Diana-Andreea 312 CC
+Rotila Diana-Andreea 
 Corectie,eliminarea exceptiilor si completarea datelor secventiale
 
 Pentru inceput, am implemntat niste functii de baza cu care o sa lucrez pe 
